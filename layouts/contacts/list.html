@@ -4,7 +4,7 @@
       {{ .Content }}
     </div>
   </article>
-  <div class="mw8 center">
+  <div class="mw6 center">
     {{ $paginator := .Paginate (where .Data.Pages "Section" .Section) }}
     <section class="flex-ns flex-wrap justify-around mt5">
       {{ range  $paginator.Pages }}
