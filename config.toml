@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Holistic Thinking"
+title = "Peace In Mind"
 theme = "ananke"
 [params]
     body_classes = "avenir bg-light-gray"
