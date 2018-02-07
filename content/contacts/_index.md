@@ -1,5 +1,6 @@
 ---
 title: "Appointments"
+description: "Book in"
 featured_image: '/images/banner_narrow.png'
 menu: main
 ---
