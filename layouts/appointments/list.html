@@ -9,7 +9,7 @@
     {{ $paginator := .Paginate (where .Data.Pages "Section" .Section) }}
     <section class="flex-wrap mt4">
       {{ range  $paginator.Pages }}
-        <div class="relative mw-100  mb4 mh2 bg-white b--moon-gray b--solid bw1">
+        <div class="relative mw-100 mb4 mh2 bg-white b--moon-gray b--solid bw1">
           {{ partial "contact-summary.html" . }}
         </div>
       {{ end }}
