@@ -1,6 +1,6 @@
 baseURL = "http://smogs-hugotest.s3-website-ap-southeast-2.amazonaws.com"
 languageCode = "en-us"
-title = "Peace In Mind"
+title = "Where's your head at"
 theme = "ananke"
 [params]
     body_classes = "avenir bg-light-gray"
