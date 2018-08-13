@@ -1,5 +1,5 @@
 ---
 title: "Where's your head at"
-description: "Thinking about capsicum, all day every day"
+description: "Psychology services"
 ---
 Find out about the things I do
