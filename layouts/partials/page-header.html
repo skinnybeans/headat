@@ -6,9 +6,9 @@
     <div class="pb1-m pb1-l bg-black-60">
       {{ partial "site-navigation.html" . }}
       <div class="tc pv1 ph1 ph1-ns">
-        <h1 class="f2 f1-l fw3 white-90 mv0 lh-title">{{ .Title | default .Site.Title }}</h1>
+        <h1 class="f2 f1-l fw4 fw2-ns white-90 mv0 lh-title">{{ .Title | default .Site.Title }}</h1>
         {{ with .Params.description  }}
-          <h2 class="fw2 f5 f3-l white-80 measure-wide-l center lh-copy mt1 mb1">
+          <h2 class="fw4 fw2-ns f5 f3-l white-80 measure-wide-l center lh-copy mt1 mb1">
             {{ . }}
           </h2>
         {{ end }}
