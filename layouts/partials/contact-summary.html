@@ -8,9 +8,21 @@
     </span>
     <div class="nested-links f4 lh-copy nested-copy-line-height pl2 pt3">
       <div class="pv2">
-        {{ .Params.address.line1 }}
+        {{ if .Params.address.line1 }}
+          {{ .Params.address.line1 }}
+        {{ end }}
         <br>
-        {{ .Params.address.line2 }}
+        {{ if .Params.address.line2 }}
+          {{ .Params.address.line2 }}
+        {{ end }}
+        <br>
+        {{ if .Params.address.suburb }}
+          {{ .Params.address.suburb }}
+        {{ end }}
+        <br>
+        {{ if .Params.address.postcode }}
+          {{ .Params.address.postcode }}
+        {{ end }}
       </div>
       <div class="pv2">
         <span class="fw6 mr2">Phone:</span> {{ .Params.phone }}

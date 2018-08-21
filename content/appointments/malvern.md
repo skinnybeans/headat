@@ -1,10 +1,12 @@
 ---
 title: "Malvern"
 clinic_name: "Wattle Tree"
-phone: "3333 3333"
+phone: "9500 0455"
 address:
-  line1: "123 Sample Street"
-  line2: "Sunshine"
+  line1: "Suite 1B"
+  line2: "307 Wattletree Road"
+  suburb: "Malvern East"
+  postcode: "3145"
 email: "me@malvern.com"
-availability: "Friday"
+availability: "Wednesday and Friday"
 ---
