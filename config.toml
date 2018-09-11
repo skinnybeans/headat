@@ -1,4 +1,4 @@
-baseURL = "http://smogs-hugotest.s3-website-ap-southeast-2.amazonaws.com"
+baseURL = "http://www.headat.com.au.s3-website-ap-southeast-2.amazonaws.com"
 languageCode = "en-us"
 title = "Where's your head at"
 theme = "ananke"
