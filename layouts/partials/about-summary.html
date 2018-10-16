@@ -1,8 +1,11 @@
 <div class="relative w-100 bg-white nested-copy-line-height">
   <div class="bg-white pa4 gray overflow-hidden">
     <span class="f3 near-black fw6 pr3">
-        {{ .Title }}
+        {{ .Params.name }}
     </span>
+    <div class="f3 near-black fw4 pr3 pb2 pt2">
+      {{ .Title }}
+    </div>
     <div class="f4 gray fw3 pr3 i 'avenir next'">
         {{ .Params.qualifications }}
     </div>

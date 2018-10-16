@@ -1,14 +1,14 @@
 ---
-title: "Martin Axelsson"
+name: "Martin Axelsson"
+title: "Psychologist"
 image: "/images/martin-profile.jpg"
 qualifications: "BAppSci (Psych, Hons), MPsych (Couns)"
 ---
-Martin is a psychologist who works with adolescents and adults.
+I work with young people and adults from all walks of life. 
+Some are living with depression, anxiety or chronic pain. Others are struggling with substance abuse, identity issues, and relationships.
 
-With experience in private practice and community services, Martin values genuine relationships with his clients. He understands how difficult it can be to talk about things that cause us pain – and knows that acceptance takes work. But he believes that everyone has the capacity to lead a happier, more fulfilling life.
+Everyone’s story is different. 
+And while it’s difficult to talk about the things that cause us pain, I believe we all have the capacity to lead a happier more fulfilling life. 
 
-Martin has worked with people living with anxiety, depression, stress and chronic pain. As well as individuals struggling with substance use, self-esteem, identity, relationships or sleep.
-
-Everyone’s story is different and Martin uses insights that each client brings to help them become more aware of the habits and thoughts that stifle personal growth. 
-
-His therapeutic approach draws on Interpersonal Therapy, Cognitive Behavioural Therapy (CBT), Schema Therapy, Acceptance and Commitment Therapy (ACT), Mindfulness, Relaxation and Clinical Hypnosis.
+Acceptance takes work, but therapy gives you the tools and skills to become more resilient, and more aware of the thoughts and habits that stifle personal growth.
+Some of the approaches I use in my sessions are Interpersonal Therapy, Cognitive Behavioural Therapy, Schema Therapy, Acceptance and Commitment Therapy, Mindfulness, Relaxation and Clinical Hypnosis.

@@ -1,6 +1,6 @@
 baseURL = "http://headat.com.au"
 languageCode = "en-us"
-title = "Where's your head at"
+title = "Where's Your Head At"
 theme = "ananke"
 [params]
     body_classes = "avenir bg-light-gray"
