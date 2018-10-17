@@ -9,4 +9,4 @@ And if we’re honest with ourselves, most of us feel rejected, alone and afraid
 
 But in a safe space, the simple act of talking can relieve a huge burden and change your life for the better. Not only because there’s an incredible power in saying your truth out loud, but because therapy gives you practical skills to live a more fulfilling life – no matter what you’ve been through or where your head’s at.
 
-[Let's talk](appointments)
+<a class="blue link dim underline" href="appointments">Let's talk</a>
