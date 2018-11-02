@@ -1,6 +1,6 @@
 ---
 title: "Malvern"
-clinic_name: "Wattle Tree"
+clinic_name: "Wattle Tree Psychology"
 phone: "9500 0455"
 address:
   line1: "Suite 1B"
