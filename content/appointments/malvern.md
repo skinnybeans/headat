@@ -8,5 +8,5 @@ address:
   suburb: "Malvern East"
   postcode: "3145"
 email: "martin.r.axelsson@gmail.com"
-availability: "Wednesday and Friday"
+availability: "Wednesday, Thursday and Friday"
 ---
