@@ -7,6 +7,6 @@ address:
   line2: "307 Wattletree Road"
   suburb: "Malvern East"
   postcode: "3145"
-email: "martin.r.axelsson@gmail.com"
+email: "contact@headat.com.au"
 availability: "Wednesday, Thursday and Friday"
 ---
